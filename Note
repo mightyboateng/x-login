@@ -1,0 +1,15 @@
+So guys I first run the code npx create-next-app@latest twitter-login
+Then i moved on to install the packages 
+       - npm i --save-dev sass
+       - npm i @mui/icons-material
+
+I deleted these files 
+
+I then created the following pages login and signup folder and connect sass to the page
+
+- starting coding the landing page.
+  - Setting background image
+  - mini Footer create
+  - content section creating
+  - install npm i next-themes
+  - 
